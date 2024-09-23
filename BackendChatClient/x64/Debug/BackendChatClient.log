@@ -1,0 +1,8 @@
+﻿  BackendChatClient.cpp
+C:\additions\Development\C++\ChatClient(Win)\BackendChatClient\BackendChatClient.cpp(145,12): warning C4244: 'return': conversion from 'SOCKET' to 'int', possible loss of data
+C:\additions\Development\C++\ChatClient(Win)\BackendChatClient\BackendChatClient.cpp(203,78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\additions\Development\C++\ChatClient(Win)\BackendChatClient\BackendChatClient.cpp(234,115): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\additions\Development\C++\ChatClient(Win)\BackendChatClient\BackendChatClient.cpp(291,116): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  BackendChatClient.vcxproj -> C:\additions\Development\C++\ChatClient(Win)\x64\Debug\BackendChatClient.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
